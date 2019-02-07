@@ -1,0 +1,13 @@
+function setup() {
+  createCanvas(400, 400);
+}
+
+function draw() {
+  background(255);
+  
+  if (mouseIsPressed){
+      background(0,255,0);    
+}
+  rect(150,150,100,100);
+  
+}
