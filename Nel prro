@@ -1,0 +1,13 @@
+function setup() {
+  createCanvas(300, 300);
+}
+
+function draw() {
+  background(255);
+  stroke(250,0,0);
+  strokeWeight(30);
+  ellipse(150,150,245,245);
+  line(75,75,230,230);
+  
+
+}
